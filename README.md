@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ```
 or just simply 
 ```bash
-pip install requirements.py
+pip install -r requirements.py
 ```
 
 ## Usage
